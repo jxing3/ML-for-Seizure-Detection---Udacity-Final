@@ -1,0 +1,22 @@
+Required packages:
+
+scikit-learn 
+
+wquantiles 0.5 (for weighted median and quantiles)
+
+https://pypi.org/project/wquantiles/
+
+Package Summary:
+
+Epileptic Seizure Detection-Ver1.ipynb: 
+
+Contains the CNN models and related analysis for Seizure Detection
+
+
+Epiliptic Seizure Detection-Traditional Classification Analysis.ipynb: 
+
+Contains the traditional classification models and related analysis for Seizure Detection
+
+Instructions:
+
+Install required packages and run notebooks from beginning to end for full training/analysis
